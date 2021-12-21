@@ -38,8 +38,8 @@ SpriteAtlas:
       padding: 4
       blockOffset: 1
       allowAlphaSplitting: 0
-      enableRotation: 1
-      enableTightPacking: 1
+      enableRotation: 0
+      enableTightPacking: 0
       enableAlphaDilation: 0
     secondaryTextureSettings: {}
     variantMultiplier: 1
@@ -47,6 +47,7 @@ SpriteAtlas:
     - {fileID: 102900000, guid: d85969d31e1003342a8a10b87c5dc468, type: 3}
     - {fileID: 102900000, guid: 822f55cb351f8b541ba362a495a7e927, type: 3}
     - {fileID: 102900000, guid: 8ec079a62d4a2374b9301b80757de2ba, type: 3}
+    - {fileID: 2800000, guid: bd3b87d253ef7624eb6e8e0d41122081, type: 3}
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
@@ -104,6 +105,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: fd082bc28ea2bc6479c1d64776b6d410, type: 3}
   - {fileID: 21300000, guid: b060b2d2b42fd6e438b549a80dd40a2a, type: 3}
   - {fileID: 21300000, guid: e6e9e3d2305e4114abb4128c2d22ecda, type: 3}
+  - {fileID: 21300000, guid: bd3b87d253ef7624eb6e8e0d41122081, type: 3}
   - {fileID: 21300000, guid: 89d9cae2cb31ba046b9c4c9ebc7189f6, type: 3}
   - {fileID: 21300000, guid: 20770913d3f400c41ba0ede810a63b56, type: 3}
   - {fileID: 21300000, guid: 84a48023c3910934ca91c8635752820f, type: 3}
@@ -417,6 +419,7 @@ SpriteAtlas:
   - barBlue_verticalMid
   - yellow_button06
   - cursorGauntlet_blue
+  - EasySee Logo Gewijzigd
   - cursorSword_silver
   - squareYellow
   - buttonLong_brown_pressed
